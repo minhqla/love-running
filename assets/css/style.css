@@ -18,7 +18,7 @@ body {
     /*Generic project styles */
     color: #3a3a3a3a;
     font-family: 'Lato', sans-serif;
-    
+
 }
 
 
@@ -27,7 +27,12 @@ body {
 header {
     background-color: lightcoral;
 }
-/* Header */
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Main content */
 main {
     background-color: lightblue;
     /*Make main element take up any surplus space to push footer down */
